@@ -1,0 +1,18 @@
+{
+        "files.trimTrailingWhitespace": true,
+
+        "[markdown]": {
+                "editor.tabSize": 8,
+                "editor.insertSpaces": true,
+                "editor.wordWrap": "wordWrapColumn",
+                "editor.wordWrapColumn": 80,
+                "editor.formatOnType": true,
+                "editor.quickSuggestions": false
+        },
+        "markdownlint.config": {
+                "default": true,
+                "MD003": { "style": "setext_with_atx" },
+                "MD013": { "line_length": 80 },
+                "MD004": { "style": "dash" }
+        }
+}
