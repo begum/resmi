@@ -5,7 +5,7 @@ Amaç
 ----
 
 Bu politikanın amacı güvenli parola oluşturma, bu parolayı koruma ve değişim
-aralıkları için bir standart oluşturmaktır.
+aralıkları için bir standart belirlemektir.
 
 Kapsam
 -------
@@ -18,26 +18,31 @@ Genel İlkeler
 -------------
 
 - Tüm sistem düzeyinde parolalar (örneğin, root, enable, NT administrator,
-  uygulama yönetim hesapları vs) en az yılda bir değiştirilmelidir.
+  uygulama yönetim hesapları vb.) en az yılda bir kez değiştirilmelidir.
 
 - Tüm kullanıcı düzeyinde parolalar (örneğin, e-posta, web, masaüstü bilgisayar,
-  vb) en az yılda bir değiştirilmelidir. Önerilen değişim aralığı her altı
+  vb.) en az yılda bir kez değiştirilmelidir. Önerilen değişim aralığı her altı
   aydır.
 
 - Her başarılı parola benzersiz olmalıdır. Aynı parolanın tekrar kullanılmasına
   izin verilmeyecektir.
 
 - Parolalar en az sekiz (8) karakter uzunluğunda olmalıdır.
-- Grup üyeliği yada "Sudo" gibi program aracılığıyla verilen sistem düzeyinde
-  yetkilere sahip kullanıcı hesapları bu kullanıcı tarafından kullanılan tüm
-  diğer hesaplarından benzersiz bir parolaya sahip olmalıdır.
+
+- Grup üyeliği ya da "Sudo" gibi program aracılığıyla verilen sistem düzeyinde
+  yetkilere sahip kullanıcı hesapları, bu kullanıcı tarafından kullanılan tüm
+  diğer hesaplardan benzersiz bir parolaya sahip olmalıdır.
+
 - Parolalar e-posta mesajlarına veya diğer elektronik iletişim formlarına
   eklenmemelidir.
+
 - Parolalar hiçbir zaman yazılı ya da online olarak saklanmamalıdır.
-- İdari asistanlar veya sekreterler de dahil olmak üzere kimseyle parolalar
+
+- İdari asistanlar veya sekreterler de dahil olmak üzere parolalar
   kimseyle paylaşılmamalıdır. Tüm şifreler özel ve gizli bilgi olarak kabul
   edilmelidir.
-- Tüm kullanıcı düzeyi ve sistem düzeyinde parolalar açıklanan kurallara uymak
+
+- Kullanıcı ve sistem düzeyindeki tüm parolalar açıklanan kurallara uymak
   zorundadır.
 
 Güçlü Bir Parola Oluşturmak için Kabul Edilebilir Yöntemler
@@ -58,7 +63,7 @@ Güçlü Bir Parola Oluşturmak için Kabul Edilebilir Yöntemler
   @, %, *, &, ”, :, ., veya /)
 
 - Sizinle ilişkili olan kelimeleri (ad, soyad, adres vb.) veya sayıları (tc
-  kimlik no, doğum günü, telefon numarası, araç plakası vb.) şifre olarak
+  kimlik no, doğum günü, telefon numarası, araç plakası vb.) parola olarak
   kullanmaktan kaçının.
 
 - Tüm parola için aynı karakteri (örneğin; '11111111') kullanmaktan kaçının.

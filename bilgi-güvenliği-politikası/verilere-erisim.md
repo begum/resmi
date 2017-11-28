@@ -62,7 +62,7 @@ Genel İlkeler
 4. Veri Sorumlusu’nun, Ondokuz Mayıs Üniversitesi Rektörlük makamının veya veri
    sahibinin onayı olmaksızın, belirli iş sorumlulukları dışındaki OMÜ kurumsal
    sistemlerindeki özel veya hassas bilgilere erişmesi veya bunları ifşa etmesi
-   yasaktır.  İhlal veya idari erişimi uygun olmayan biçimde kullanmak disiplin
+   yasaktır. İhlal veya idari erişimi uygun olmayan biçimde kullanmak disiplin
    önlemleri ile karşılanacaktır.
 
 5. Sadece yetkili kullanıcılar Hassas Kurumsal Verilere erişebilirler.

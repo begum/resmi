@@ -79,5 +79,4 @@ Referanslar
 -----------
 
 1. [Ulaknet Kullanım Politikası](http://ulakbim.tubitak.gov.tr/sites/images/Ulakbim/ukp-v2011.pdf)
-
 2. [EDUROAM](http://eduroam.omu.edu.tr/)

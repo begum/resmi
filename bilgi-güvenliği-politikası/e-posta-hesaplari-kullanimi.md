@@ -136,4 +136,4 @@ Referanslar
 
 1. [Ondokuz Mayıs Üniversitesi Bilgi İşlem Daire Başkanlığı](http://bidb.omu.edu.tr/tr/hizmetler/eposta)
 2. [İstanbul Üniversitesi E-posta Kullanım Politikaları](http://cdn.istanbul.edu.tr/statics/bilgiislem.istanbul.edu.tr/wp-content/uploads/2012/02/EPK-TL-01.pdf)
-3. İ[stanbul Arel Üniversitesi E-posta Kullanım Politikaları](https://www.arel.edu.tr/bilgi-islem-daire-baskanligi/politikalarimiz/e-posta-kullanim-politikasi)
+3. [İstanbul Arel Üniversitesi E-posta Kullanım Politikaları](https://www.arel.edu.tr/bilgi-islem-daire-baskanligi/politikalarimiz/e-posta-kullanim-politikasi)
