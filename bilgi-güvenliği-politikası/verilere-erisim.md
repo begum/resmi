@@ -50,26 +50,26 @@ Genel İlkeler
    sorumluluklarının bir parçası olarak desteklenen işletim sistemine,
    veritabanlarına veya uygulamalara idari erişime sahip olabilir.
 
-2. Verilere erişim, Ondokuz Mayıs Üniversitesi Rektörlük yönetimince belirlenen
+1. Verilere erişim, Ondokuz Mayıs Üniversitesi Rektörlük yönetimince belirlenen
    personelin görev ve sorumluluklarıyla tutarlı olmalıdır. İlgili personel,
    verilere erişimi Ondokuz Mayıs Üniversitesi bünyesindeki görevini
    gerçekleştirmek için kullanılabilir.
 
-3. Ondokuz Mayıs Üniversitesi, düzenli olarak yönetmeden sorumlu olan sistemlere
+1. Ondokuz Mayıs Üniversitesi, düzenli olarak yönetmeden sorumlu olan sistemlere
    yönetici erişimini inceler. İdari erişim, personelin rol veya
    sorumluluklarındaki değişiklikler üzerine gözden geçirilir ve güncellenir.
 
-4. Veri Sorumlusu’nun, Ondokuz Mayıs Üniversitesi Rektörlük makamının veya veri
+1. Veri Sorumlusu’nun, Ondokuz Mayıs Üniversitesi Rektörlük makamının veya veri
    sahibinin onayı olmaksızın, belirli iş sorumlulukları dışındaki OMÜ kurumsal
    sistemlerindeki özel veya hassas bilgilere erişmesi veya bunları ifşa etmesi
    yasaktır. İhlal veya idari erişimi uygun olmayan biçimde kullanmak disiplin
    önlemleri ile karşılanacaktır.
 
-5. Sadece yetkili kullanıcılar Hassas Kurumsal Verilere erişebilirler.
+1. Sadece yetkili kullanıcılar Hassas Kurumsal Verilere erişebilirler.
    Bireylerin Hassas Kurumsal Verilere erişimi, yetkisiz kullanıcıların erişimi
    engellemek için makul önlemlerle kontrol edilir.
 
 Referanslar
 ----------
 
-1. [University of Georgia Data Access Policy](https://eits.uga.edu/access_and_security/infosec/pols_regs/policies/data_access/)
+- [University of Georgia Data Access Policy](https://eits.uga.edu/access_and_security/infosec/pols_regs/policies/data_access/)

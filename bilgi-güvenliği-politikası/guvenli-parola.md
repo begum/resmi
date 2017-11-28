@@ -82,5 +82,5 @@ Mayıs Üniversitesi Rektörlüğü sorumludur.
 Referanslar
 -----------
 
-1. [Koç Üniversitesi Kullanıcı Şifre Prosedürü](https://my.ku.edu.tr/sites/my.ku.edu.tr/files/P03-BI-001_KULLANICI_SIFRE_PROSEDURU.pdf)
-2. [University of Georgia Password Policy](https://eits.uga.edu/access_and_security/infosec/pols_regs/policies/passwords/password_standard/)
+- [Koç Üniversitesi Kullanıcı Şifre Prosedürü](https://my.ku.edu.tr/sites/my.ku.edu.tr/files/P03-BI-001_KULLANICI_SIFRE_PROSEDURU.pdf)
+- [University of Georgia Password Policy](https://eits.uga.edu/access_and_security/infosec/pols_regs/policies/passwords/password_standard/)

@@ -45,7 +45,7 @@ Genel İlkeler
    sözleşmelere uygun olarak ve OMÜ'nün misyonunu desteklemek amacıyla
    kullanılmalıdır.
 
-2. OMÜ Bilişim Kaynaklarını kullanıma sunan birimler;
+1. OMÜ Bilişim Kaynaklarını kullanıma sunan birimler;
 
    - Kullanıcı bilgilerinin gizliliğini, mahremiyetini korumalı
    - Kaynakların adil olarak paylaştırılmasını sağlamalı
@@ -56,22 +56,22 @@ Genel İlkeler
      kaynakları kullananların kimliğinin tespit edilmesini sağlayacak düzende
      tutmalı
 
-3. OMÜ Bilişim Kaynakları Kullanıcıları, kaynakları kullanırken OMÜ Bilişim
+1. OMÜ Bilişim Kaynakları Kullanıcıları, kaynakları kullanırken OMÜ Bilişim
    Kaynakları Kullanma Politikaları’na uymak zorundadır.
 
-4. OMÜ Bilişim Kaynakları, OMÜ yönetiminin yetkilendirdiği makamlarca
+1. OMÜ Bilişim Kaynakları, OMÜ yönetiminin yetkilendirdiği makamlarca
    belirlenmiş kurallar ve yönergeler çerçevesinde, yetkinin veriliş amacını
    aşmayacak şekilde ve yapılacak her iş için uygun yetkilendirme ile
    kullanılmalı, yetki almadan değiştirilmemeli, ortadan kaldırılmamalıdır.
 
-5. OMÜ Bilişim Kaynakları;
+1. OMÜ Bilişim Kaynakları;
 
    - Kullanım hakkını, doğrudan ya da dolaylı olarak devretmek ya da kiralamak
    - Ticari nitelik taşıyan ve gelir teminine yönelik kullanımlar
 
    için rektörlük makamından izin alınmadan kullanılmamalıdır.
 
-6. OMÜ Bilişim Kaynakları,
+1. OMÜ Bilişim Kaynakları,
 
    - OMÜ içi bilgi kaynaklarını (duyuru, haber, doküman vb.), yetkisiz ve/veya
      izinsiz olarak 3. kişilere/kuruluşlara dağıtmak amacıyla,
@@ -83,14 +83,14 @@ Genel İlkeler
    - Kaynaklara zarar verici/kaynakların güvenliğini tehdit edici biçimde
      kullanılmamalıdır.
 
-7. OMÜ Bilişim Kaynakları,
+1. OMÜ Bilişim Kaynakları,
 
    - Genel ahlak ilkelerine aykırı materyal üretmek, barındırmak, iletmek,
    - Siyasi propaganda yapmak,
    - Rastgele ve alıcının istemi dışında mesaj (SPAM iletiler) göndermek
      amacıyla kullanılmamalıdır.
 
-8. "Yasal Sorumluluk Reddi (Disclaimer)" metinleri, Genel İlkelere aykırı
+1. "Yasal Sorumluluk Reddi (Disclaimer)" metinleri, Genel İlkelere aykırı
    kullanımların kabul edilebilir olduğunu göstermez.
 
 Yetki ve Sorumluluklar
@@ -112,7 +112,7 @@ Yetki ve Sorumluluklar
    kendi sorumluluğundadır. Ancak BİDB gereken durumlarda ve istek üzerine
    danışmanlık hizmeti verebilir.
 
-2. Üniversite bilişim kaynakları kullanıcıları, Üniversite sunucuları üzerinde
+1. Üniversite bilişim kaynakları kullanıcıları, Üniversite sunucuları üzerinde
    kendilerine tahsis edilen kullanıcı kodu/şifre ikilisi ve/veya IP (Internet
    Protocol) adresi kullanılarak gerçekleştirdikleri her türlü etkinlikten,
    Üniversite bilişim kaynaklarını kullanarak oluşturdukları ve/veya kendilerine
@@ -123,7 +123,7 @@ Yetki ve Sorumluluklar
    yönetmeliklerine, Türkiye Cumhuriyeti yasalarına ve bunlara bağlı olan
    yönetmeliklere karşı birebir kendileri sorumludur.
 
-3. Üniversite Rektörlüğü ve/veya yetkilendirdiği birimler, Üniversite bilişim
+1. Üniversite Rektörlüğü ve/veya yetkilendirdiği birimler, Üniversite bilişim
    kaynakları kullanımı hakkında genel kuralları belirleyip, bu kuralları
    gelişen teknolojinin öngördüğü biçimde sürekli olarak değerlendirir ve
    gerekli değişiklikleri hayata geçirir. Bu tür değişiklikler yapıldığında
@@ -157,6 +157,6 @@ daha ayrıntılı açıklama ve yardım için BİDB ile iletişime geçilmelidir
 Referanslar
 -----------
 
-1. [ODTÜ Bilişim Kaynakları Kullanım Politikaları](http://www.metu.edu.tr/tr/bilisim-etigi)
-2. [Information Systems and Technology MIT](https://ist.mit.edu/about/it-policies)
-3. [University of Rochester IT Policies](http://tech.rochester.edu/policy/)
+- [ODTÜ Bilişim Kaynakları Kullanım Politikaları](http://www.metu.edu.tr/tr/bilisim-etigi)
+- [Information Systems and Technology MIT](https://ist.mit.edu/about/it-policies)
+- [University of Rochester IT Policies](http://tech.rochester.edu/policy/)

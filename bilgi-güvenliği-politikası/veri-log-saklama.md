@@ -49,7 +49,7 @@ talimatı altında yapılır.
 Referanslar
 -----------
 
-1. [Mevzuat Bilgi Sistemi](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=7.5.16405&MevzuatIliski=0)
-2. [University of California Santa Cruz Information Security Log Policy](https://policy.ucsc.edu/policies/its/it0005.html)
-3. [Log Management for the University of California](http://www.ucop.edu/information-technology-services/initiatives/resources-and-tools/LogManagementGuidelines-2006-05-01.pdf)
-4. [TUBİTAK BİLGEM](http://bilgem.tubitak.gov.tr/tr/kurumsal/kisisel-verilerin-korunmasi-hakkinda-bilgilendirme)
+- [Mevzuat Bilgi Sistemi](http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=7.5.16405&MevzuatIliski=0)
+- [University of California Santa Cruz Information Security Log Policy](https://policy.ucsc.edu/policies/its/it0005.html)
+- [Log Management for the University of California](http://www.ucop.edu/information-technology-services/initiatives/resources-and-tools/LogManagementGuidelines-2006-05-01.pdf)
+- [TUBİTAK BİLGEM](http://bilgem.tubitak.gov.tr/tr/kurumsal/kisisel-verilerin-korunmasi-hakkinda-bilgilendirme)
