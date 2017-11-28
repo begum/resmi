@@ -49,23 +49,23 @@ Genel İlkeler
 1. Bilişim sisteminin yapısı ile bütün iş ve işlemler açıkça belgelenmeli ve bu
    belgeleme inceleme amacıyla kolaylıkla ulaşılabilir durumda olmalıdır.
 
-2. İş akışları uygun şekilde belgelenmelidir.
+1. İş akışları uygun şekilde belgelenmelidir.
 
-3. Belgeleme, tarih belirtilerek yapılmalı ve yedek kopyaları güvenli bir yerde
+1. Belgeleme, tarih belirtilerek yapılmalı ve yedek kopyaları güvenli bir yerde
    muhafaza edilmelidir.
 
-4. Girdi türleri ve girdi form örnekleri belgelenmelidir.
+1. Girdi türleri ve girdi form örnekleri belgelenmelidir.
 
-5. Ana dosyalar ile diğer dosyaların içerik ve şekilleri belgelenmelidir.
+1. Ana dosyalar ile diğer dosyaların içerik ve şekilleri belgelenmelidir.
 
-6. Çıktı form örnekleri ve çıktıların kimlere dağıtılacağı belgelenmelidir.
+1. Çıktı form örnekleri ve çıktıların kimlere dağıtılacağı belgelenmelidir.
 
-7. Programların nasıl test edildiği ve test sonuçları belgelenmelidir.
+1. Programların nasıl test edildiği ve test sonuçları belgelenmelidir.
 
-8. Bütün program değişikliklerinin detayları belgelenmelidir.
+1. Bütün program değişikliklerinin detayları belgelenmelidir.
 
 Referanslar
 ----------
 
-1. [Mevzuat Bilgi Sistemi](http://mevzuat.basbakanlik.gov.tr/Metin.Aspx?MevzuatKod=7.5.19880&MevzuatIliski=0&sourceXmlSearch=elektronik%20haberle%C5%9Fme%20sekt%C3%B6r%C3%BCnde)
-2. [T.C. Sağlık Bakanlığı Bilgi Güvenliği Politikaları Kılavuzu](https://bilgiguvenligi.saglik.gov.tr/files/BilgiG%C3%BCvenli%C4%9FiPolitikalar%C4%B1K%C4%B1lavuzu.pdf)
+- [Mevzuat Bilgi Sistemi](http://mevzuat.basbakanlik.gov.tr/Metin.Aspx?MevzuatKod=7.5.19880&MevzuatIliski=0&sourceXmlSearch=elektronik%20haberle%C5%9Fme%20sekt%C3%B6r%C3%BCnde)
+- [T.C. Sağlık Bakanlığı Bilgi Güvenliği Politikaları Kılavuzu](https://bilgiguvenligi.saglik.gov.tr/files/BilgiG%C3%BCvenli%C4%9FiPolitikalar%C4%B1K%C4%B1lavuzu.pdf)
