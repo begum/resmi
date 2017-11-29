@@ -71,8 +71,8 @@ Genel İlkeler
    kullanması gerekir.
 
 1. Kullanıcı, hesabında ve/veya sitesinde hukuki açıdan suç teşkil edecek
-    materyal ve belgelere yer veremez. Kamu ve ticari servisler ile şahsi hesap
-    sahiplerine zarar verici uygulamalar kullanamaz.
+   materyal ve belgelere yer veremez. Kamu ve ticari servisler ile şahsi hesap
+   sahiplerine zarar verici uygulamalar kullanamaz.
 
 1. Kullanıcı hesabı;
    - T.C. yasalarının belirlediği yasadışı kullanımlarda,
@@ -94,25 +94,25 @@ Genel İlkeler
      kullanıcılar önceden bilgilendirilir.
 
 1. Bilgi işlem Daire Başkanlığı uzun süre kullanılmayan hesapları kapatma
-    hakkına sahiptir. 6 ay süreyle kullanılmayan hesaplar kapatılabilir ve
-    ilgili kullanıcının dosyaları silinebilir.
+   hakkına sahiptir. 6 ay süreyle kullanılmayan hesaplar kapatılabilir ve ilgili
+   kullanıcının dosyaları silinebilir.
 
 1. Ondokuz Mayıs Üniversitesi elektronik posta kaynakları; “zincir elektronik
-    postalar”, reklam, aldatma, karalama gibi istenmeyen mesajlar (SPAM)
-    göndermek için kullanılamaz.
+   postalar”, reklam, aldatma, karalama gibi istenmeyen mesajlar (SPAM)
+   göndermek için kullanılamaz.
 
 1. Ondokuz Mayıs Üniversitesi ile ilgili kritik verileri içeren bilgiler
-    elektronik posta, internet dosya paylaşım siteleri, paylaşım yazılımları ile
-    gönderilemez.
+   elektronik posta, internet dosya paylaşım siteleri, paylaşım yazılımları ile
+   gönderilemez.
 
 1. Ondokuz Mayıs Üniversitesi, kullanıcının elektronik posta sisteminde
-    gerçekleştirdiği aktivitelerle ilgili bilgiyi adli makamlarca talep edilmesi
-    durumunda yargıyla kullanıcının izni olmadan paylaşma hakkını saklı tutar.
+   gerçekleştirdiği aktivitelerle ilgili bilgiyi adli makamlarca talep edilmesi
+   durumunda yargıyla kullanıcının izni olmadan paylaşma hakkını saklı tutar.
 
 1. E-posta hesap sahipleri, posta hesaplarının şifrelerini unuttukları ya da
-    kaybettikleri zaman Bilgi işlem Daire Başkanlığı’na şahsen müracaat etmeleri
-    ve “E-posta Başvuru Formu” nu doldurmaları gerekmektedir. Telefon, SMS,
-    e-posta gibi iletişim araçlarıyla şifre bilgisi verilmemektedir.
+   kaybettikleri zaman Bilgi işlem Daire Başkanlığı’na şahsen müracaat etmeleri
+   ve “E-posta Başvuru Formu” nu doldurmaları gerekmektedir. Telefon, SMS,
+   e-posta gibi iletişim araçlarıyla şifre bilgisi verilmemektedir.
 
 Yaptırımlar
 -----------
