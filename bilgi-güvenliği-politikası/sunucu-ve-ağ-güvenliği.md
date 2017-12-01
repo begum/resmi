@@ -1,5 +1,5 @@
-Ondokuz Mayıs Üniversitesi Sunucu ve Ağ Güvenliği Politikası
-============================================================
+Sunucu ve Ağ Güvenliği Politikası
+=================================
 
 Amaç
 ----

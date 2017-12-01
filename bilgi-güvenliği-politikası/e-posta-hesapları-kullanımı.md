@@ -1,5 +1,5 @@
-Ondokuz Mayıs Üniversitesi E-posta Hesapları Kullanım Politikası
-===============================================================
+E-posta Hesapları Kullanım Politikası
+=====================================
 
 Amaç
 ----

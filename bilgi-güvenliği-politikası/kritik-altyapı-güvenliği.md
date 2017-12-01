@@ -1,5 +1,5 @@
-Ondokuz Mayıs Üniversitesi Kritik Altyapı Güvenliği Politikası
-==============================================================
+Kritik Altyapı Güvenliği Politikası
+====================================
 
 Amaç
 ----

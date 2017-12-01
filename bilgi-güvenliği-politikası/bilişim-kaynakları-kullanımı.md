@@ -1,5 +1,5 @@
-Ondokuz Mayıs Üniversitesi Bilişim Kaynakları Kullanım Politikası
-=================================================================
+Bilişim Kaynakları Kullanım Politikası
+=======================================
 
 Amaç ve Kapsam
 --------------

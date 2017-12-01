@@ -1,5 +1,5 @@
-Ondokuz Mayıs Üniversitesi Veri / Log Saklama Politikası
-========================================================
+Veri / Log Saklama Politikası
+=============================
 
 Amaç ve Kapsam
 --------------

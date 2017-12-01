@@ -1,5 +1,5 @@
-Ondokuz Mayıs Üniversitesi Bilgi Güvenliği Belgelendirme Politikası
-===================================================================
+Bilgi Güvenliği Belgelendirme Politikası
+========================================
 
 Amaç
 ----

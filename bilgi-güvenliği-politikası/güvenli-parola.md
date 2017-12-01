@@ -1,5 +1,5 @@
-Ondokuz Mayıs Üniversitesi Güvenli Parola Politikası
-===================================================
+Güvenli Parola Politikası
+=========================
 
 Amaç
 ----
@@ -17,33 +17,32 @@ vb.) kapsamaktadır.
 Genel İlkeler
 -------------
 
-- Tüm sistem düzeyinde parolalar (örneğin, root, enable, NT administrator,
-  uygulama yönetim hesapları vb.) en az yılda bir kez değiştirilmelidir.
+1. Tüm sistem düzeyinde parolalar (örneğin, root, enable, NT administrator,
+   uygulama yönetim hesapları vb.) en az yılda bir kez değiştirilmelidir.
 
-- Tüm kullanıcı düzeyinde parolalar (örneğin, e-posta, web, masaüstü bilgisayar,
-  vb.) en az yılda bir kez değiştirilmelidir. Önerilen değişim aralığı her altı
-  aydır.
+1. Tüm kullanıcı düzeyinde parolalar (örneğin, e-posta, web, masaüstü
+   bilgisayar, vb.) en az yılda bir kez değiştirilmelidir. Önerilen değişim
+   aralığı her altı aydır.
 
-- Her başarılı parola benzersiz olmalıdır. Aynı parolanın tekrar kullanılmasına
-  izin verilmeyecektir.
+1. Her başarılı parola benzersiz olmalıdır. Aynı parolanın tekrar kullanılmasına
+   izin verilmeyecektir.
 
-- Parolalar en az sekiz (8) karakter uzunluğunda olmalıdır.
+1. Parolalar en az sekiz (8) karakter uzunluğunda olmalıdır.
 
-- Grup üyeliği ya da "Sudo" gibi program aracılığıyla verilen sistem düzeyinde
-  yetkilere sahip kullanıcı hesapları, bu kullanıcı tarafından kullanılan tüm
-  diğer hesaplardan benzersiz bir parolaya sahip olmalıdır.
+1. Grup üyeliği ya da "Sudo" gibi program aracılığıyla verilen sistem düzeyinde
+   yetkilere sahip kullanıcı hesapları, bu kullanıcı tarafından kullanılan tüm
+   diğer hesaplardan benzersiz bir parolaya sahip olmalıdır.
 
-- Parolalar e-posta mesajlarına veya diğer elektronik iletişim formlarına
-  eklenmemelidir.
+1. Parolalar e-posta mesajlarına veya diğer elektronik iletişim formlarına
+   eklenmemelidir.
 
-- Parolalar hiçbir zaman yazılı ya da online olarak saklanmamalıdır.
+1. Parolalar hiçbir zaman yazılı ya da online olarak saklanmamalıdır.
 
-- İdari asistanlar veya sekreterler de dahil olmak üzere parolalar
-  kimseyle paylaşılmamalıdır. Tüm şifreler özel ve gizli bilgi olarak kabul
-  edilmelidir.
+1. İdari asistanlar veya sekreterler de dahil olmak üzere parolalar kimseyle
+   paylaşılmamalıdır. Tüm şifreler özel ve gizli bilgi olarak kabul edilmelidir.
 
-- Kullanıcı ve sistem düzeyindeki tüm parolalar açıklanan kurallara uymak
-  zorundadır.
+1. Kullanıcı ve sistem düzeyindeki tüm parolalar açıklanan kurallara uymak
+   zorundadır.
 
 Güçlü Bir Parola Oluşturmak için Kabul Edilebilir Yöntemler
 -----------------------------------------------------------

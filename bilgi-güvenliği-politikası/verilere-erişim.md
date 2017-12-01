@@ -1,5 +1,5 @@
-Ondokuz Mayıs Üniversitesi Verilere Erişim Politikası
-=====================================================
+Verilere Erişim Politikası
+==========================
 
 Amaç ve Kapsam
 --------------

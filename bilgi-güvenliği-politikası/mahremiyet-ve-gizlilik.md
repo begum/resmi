@@ -1,5 +1,5 @@
-Ondokuz Mayıs Üniversitesi Mahremiyet ve Gizlilik Politikası
-============================================================
+Mahremiyet ve Gizlilik Politikası
+=================================
 
 Amaç
 ----

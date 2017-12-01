@@ -1,5 +1,5 @@
-Ondokuz Mayıs Üniversitesi Kampüs Ağı Kullanım Politikası
-=========================================================
+Kampüs Ağı Kullanım Politikası
+==============================
 
 Amaç
 ----
