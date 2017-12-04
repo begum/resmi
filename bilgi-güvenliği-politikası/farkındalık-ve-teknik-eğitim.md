@@ -60,10 +60,10 @@ aşağıdakiler yapılmalıdır:
   yedeklenmesi gibi tedbir uygulamalarını gerçekleştirerek sürecin başarıyla
   gerçekleşmesine katkı sağlamalıdır.
 
-- Eğitim faaliyetleri işlemlerinin, kurum içerisinde nasıl yürütülmesi gerektiği
-  hususunda bir prosedür geliştirilmelidir.
+- Eğitim faaliyetleri işlemlerinin, üniversite içerisinde nasıl yürütülmesi
+  gerektiği hususunda bir prosedür geliştirilmelidir.
 
-- Kurumların teknik işlerinde (Bilişim faaliyetleri), uygulama geliştirme,
+- Üniversitenin teknik işlerinde (Bilişim faaliyetleri), uygulama geliştirme,
   sistem güvenliği kapsamında hizmet veren personellerin kişisel gelişimlerinin
   devamlılığı konusunda eğitimler düzenlenmelidir.
 
@@ -76,5 +76,5 @@ Referanslar
 - [University of Oxford Information Security Training and Awareness](https://www.infosec.ox.ac.uk/guidance-policy/training-and-awareness)
 - [University of Georgia Security Awareness](https://eits.uga.edu/access_and_security/infosec/security_awareness/)
 - [University of California Santa Cruz Security Awareness Training](https://its.ucsc.edu/security/training/index.html)
-- [Boston University Information Services & Technology Security Education & Awareness](http://www.bu.edu/tech/services/security/education/awareness/)
+- [Boston University TechWeb Security Education & Awareness](http://www.bu.edu/tech/services/security/education/awareness/)
 - [T.C. Sağlık Bakanlığı Bilgi Güvenliği Farkındalık Bildirgesi](https://bilgiguvenligi.saglik.gov.tr/files/Gizlilik_Sozlesmeleri/BG.SZ.04%20B%C4%B0LG%C4%B0%20G%C3%9CVENL%C4%B0%C4%9E%C4%B0%20FARKINDALIK%20B%C4%B0LD%C4%B0RGES%C4%B0.pdf)
