@@ -20,14 +20,14 @@ Kritik altyapı; işlediği bilginin gizliliği, bütünlüğü veya erişilebil
 bozulduğunda, can kaybına, büyük ölçekli ekonomik zarara, ulusal güvenlik
 açıklarına veya kamu düzeninin bozulmasına yol açabilecek bilişim veya
 endüstriyel kontrol sistemlerini barındıran sistemlerdir. Kritik altyapılar
-genel olarak fiziksel varlıklar, insan kaynakları, bilişim sistem ve varlıkları
+genel olarak fiziksel varlıklar, insan kaynakları, bilişim sistemi varlıkları
 olarak üç katmandan oluşur.
 
 Genel İlkeler
 ------------
 
 1. Kritik altyapıların korunması sırasında kullanılan güvenlik yönetimi
-   yaklaşımı riskleri anlamaya ve bu riskleri makul bir maliyete ve kabul
+   yaklaşımı riskleri anlamaya, bu riskleri makul bir maliyete ve kabul
    edilebilir bir seviyeye çekmeyi hedeflemektedir. Çalışmalarda risk
    seviyesinin en yüksek olduğu alanlara odaklanılmaktadır.
 
@@ -38,7 +38,7 @@ Genel İlkeler
    tehditlerin detaylı olarak incelenmesi ve gerekli önlemlerin alınması
    gereklidir.
 
-1. Kritik altyapı sistemi tasarlanırken veya mevcut bir sistem güncellenirken,
+1. Kritik altyapı sistemi tasarlanırken veya mevcut bir sistem güncellenirken
    karşılaşılabilecek elektronik riskler göz önünde bulundurulmalıdır.
 
 1. Binalarının fiziksel olarak korunması, farklı koruma mekanizmaları ile

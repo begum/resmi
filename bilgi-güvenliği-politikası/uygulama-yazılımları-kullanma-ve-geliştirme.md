@@ -14,7 +14,7 @@ Kapsam
 ------
 
 Bu politika, Ondokuz Mayıs Üniversitesi BİDB tarafından geliştirilen
-uygulamaların (örneğin web sayfaları, masaüstü uygulamaları, web otomasyonları
+uygulamaların (web sayfaları, masaüstü uygulamaları, web otomasyonları
 vb.) geliştirilmesi, bakım ve desteğinin sağlanması gibi faaliyetleri yürüten
 tüm akademik ve idari personelin uyması gereken kuralları kapsamaktadır.
 
@@ -35,7 +35,7 @@ Genel İlkeler
    manipülasyonu, hata yönetimi, kayıt tutma ve denetimi kriterleri dikkate
    alınmalıdır.
 
-1. Yazılım geliştirme süreci boyunca, gerekli bütün testler eksiksiz şekilde
+1. Yazılım geliştirme süreci boyunca gerekli bütün testler eksiksiz şekilde
    yapılmalıdır.
 
 1. Kurum için geliştirilen uygulamalar ve satın alınan yazılımlar, güvenlik

@@ -58,7 +58,7 @@ Genel İlkeler
    yasadışı, toplum ahlak ve anlayışına aykırı herhangi bir amaç güden toplu
    tanıtım, postalama ve benzeri aktivitelerde bulunamaz.
 
-1. Kullanıcı @omu.edu.tr ve @stu.omu.edu.tr uzantılı e-posta hesapları ile
+1. Kullanıcı `@omu.edu.tr` ve `@stu.omu.edu.tr` uzantılı e-posta hesapları ile
    eğlence, yasa dışı, hacking, pornografi, illegal vb. içerik barındıran
    servislere üye olamaz.
 
@@ -67,8 +67,8 @@ Genel İlkeler
 
 1. Ondokuz Mayıs Üniversitesi akademik ve idari personelinin, kurum kimliği
    altında sürdürülen tüm faaliyetler için kuruma ait elektronik posta adresine
-   sahip olması ve ilgili yazışmalar için @omu.edu.tr uzantılı e-posta hesabını
-   kullanması gerekir.
+   sahip olması ve ilgili yazışmalar için `@omu.edu.tr` uzantılı e-posta
+   hesabını kullanması gerekir.
 
 1. Kullanıcı, hesabında ve/veya sitesinde hukuki açıdan suç teşkil edecek
    materyal ve belgelere yer veremez. Kamu ve ticari servisler ile şahsi hesap
@@ -111,7 +111,7 @@ Genel İlkeler
 
 1. E-posta hesap sahipleri, posta hesaplarının şifrelerini unuttukları ya da
    kaybettikleri zaman Bilgi işlem Daire Başkanlığı’na şahsen müracaat etmeleri
-   ve “E-posta Başvuru Formu” nu doldurmaları gerekmektedir. Telefon, SMS,
+   ve E-posta Başvuru Formu'nu doldurmaları gerekmektedir. Telefon, SMS,
    e-posta gibi iletişim araçlarıyla şifre bilgisi verilmemektedir.
 
 Yaptırımlar

@@ -76,8 +76,8 @@ Genel İlkeler
    parametreleri, Ondokuz Mayıs Üniversitesi'nin güvenlik politika ve
    standartlarıyla uyumlu olmalıdır.
 
-1. İnternet trafiği, Kampüs Ağı Kullanım Politikası ve ilgili
-   standartlarda anlatıldığı şekilde izlenebilmelidir.
+1. İnternet trafiği, Kampüs Ağı Kullanım Politikası ve ilgili standartlarda
+   anlatıldığı şekilde izlenebilmelidir.
 
 1. Bilgisayar ağındaki adresler, ağa ait yapılandırma ve diğer tasarım bilgileri
    3. şahıs ve sistemlerin ulaşamayacağı şekilde saklanmalıdır.

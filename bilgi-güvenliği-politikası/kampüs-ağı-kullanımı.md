@@ -12,9 +12,9 @@ gereken kuralları tanımlamak üzere hazırlanmıştır.
 Kapsam
 -------
 
-Bu politika, Ondokuz Mayıs Üniversitesi BİDB hizmetlerinden (örneğin; ağ
-bağlantısı, internet çıkışı, bilgisayar tahsisi vb.) faydalanan tüm akademik ve
-idari personel ile birlikte tüm öğrencileri kapsamaktadır.
+Bu politika, Ondokuz Mayıs Üniversitesi BİDB hizmetlerinden (ağ bağlantısı,
+internet çıkışı, bilgisayar tahsisi vb.) faydalanan tüm akademik ve idari
+personel ile birlikte tüm öğrencileri kapsamaktadır.
 
 Genel İlkeler
 -------------
@@ -43,13 +43,13 @@ kurallarına uymaları gerekmektedir.
    bulunmamalıdır.
 
 1. Kullanıcılar OMÜ ağ hizmetinin verilmesini sağlayan donanıma (switchler,
-   kablolar, duvar prizleri, vb.) hiç bir şekilde müdahale edemez, ayarlarını
+   kablolar, duvar prizleri vb.) hiçbir şekilde müdahale edemez, ayarlarını
    değiştiremezler. Bu uygulamalar gerek görüldüğü takdirde sadece BİDB ağ
    yönetim sorumluları tarafından gerçekleştirilecektir.
 
 1. Kullanıcılar BİDB ağ yönetim sorumlularının bilgisi olmadan ağa aktif
-   cihazlar (örneğin switch, hub, modem veya kablosuz erişim cihazı (access
-   point)) dahil edemezler.
+   cihazlar (switch, hub, modem, kablosuz erişim cihazı -access point- vb.)
+   dahil edemezler.
 
 1. Üniversitemizde kablosuz ağ altyapısında EDUROAM (EDUcation ROAMing) hizmeti
    verilmektedir. Kullanıcıların EDUROAM hizmetinde kullandıkları kendilerine
@@ -67,10 +67,10 @@ Uygulama ve Yaptırımlar
 
 - Genel internet hizmeti kullanım kurallarına uymadığı tespit edilen
   kullanıcılar önce sözlü daha sonra yazılı olarak uyarılırlar.
-- Faaliyetin devamı sonucunda kampüs yerleşkesi içi ve/veya kampüs yerleşkesi
-  dışı ağ erişimi kullanıcının akademik ve idari görevlerini aksatmayacak
-  şekilde geçici süre ile kapatılır.
-- Kural ihlaline sebep olan uygulamaların ortadan kalkmaması ve/veya tekrarı
+- Faaliyetin devamı sonucunda kampüs yerleşkesi içi veya kampüs yerleşkesi dışı
+  ağ erişimi kullanıcının akademik ve idari görevlerini aksatmayacak şekilde
+  geçici süre ile kapatılır.
+- Kural ihlaline sebep olan uygulamaların ortadan kalkmaması veya tekrarı
   durumunda Üniversite bünyesindeki soruşturma mekanizmaları harekete geçirilir.
 - Kural ihlaline sebep olan uygulamaların sonuçlarına göre adli veya idari yargı
   mekanizmaları harekete geçirilir.
