@@ -14,9 +14,9 @@ Kapsam
 ------
 
 Bu politika, Ondokuz Mayıs Üniversitesi BİDB tarafından geliştirilen
-uygulamaların (web sayfaları, masaüstü uygulamaları, web otomasyonları
-vb.) geliştirilmesi, bakım ve desteğinin sağlanması gibi faaliyetleri yürüten
-tüm akademik ve idari personelin uyması gereken kuralları kapsamaktadır.
+uygulamaların (web sayfaları, masaüstü uygulamaları, web otomasyonları vb.)
+geliştirilmesi, bakım ve desteğinin sağlanması gibi faaliyetleri yürüten tüm
+akademik ve idari personelin uyması gereken kuralları kapsamaktadır.
 
 Genel İlkeler
 -------------

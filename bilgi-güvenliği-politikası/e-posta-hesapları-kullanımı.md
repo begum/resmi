@@ -111,8 +111,8 @@ Genel İlkeler
 
 1. E-posta hesap sahipleri, posta hesaplarının şifrelerini unuttukları ya da
    kaybettikleri zaman Bilgi işlem Daire Başkanlığı’na şahsen müracaat etmeleri
-   ve E-posta Başvuru Formu'nu doldurmaları gerekmektedir. Telefon, SMS,
-   e-posta gibi iletişim araçlarıyla şifre bilgisi verilmemektedir.
+   ve E-posta Başvuru Formu'nu doldurmaları gerekmektedir. Telefon, SMS, e-posta
+   gibi iletişim araçlarıyla şifre bilgisi verilmemektedir.
 
 Yaptırımlar
 -----------

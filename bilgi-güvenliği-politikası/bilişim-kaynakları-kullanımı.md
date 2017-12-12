@@ -102,15 +102,15 @@ Yetki ve Sorumluluklar
    sağlamak üzere oluşturulan altyapıyı kurmak, işletmek ve güncellemekle
    sorumludur.
 
-   BİDB, bölüm ve birimlerde tespit edilen ana ağ erişim noktalarını
-   kurar, bilgi işlem merkezi ile iletişimi için gerekli kablolama
-   faaliyetlerini yürütür, bu noktalara kullanıcıların bağlanabilmesi için
-   gerekli ağ anahtarlama cihazlarını temin eder ve yerleştirir. Sistemi teknik
-   düzeyde planlama ve uygulama sorumluluk ve yetkisi BİDB’dedir. BİDB, binalar
-   içinde kurulan ana erişim noktaları dışında kalan oda, ofis ve laboratuvar
-   gibi alt birimlerin bağlantılarından sorumlu değildir; bunlar birimin/bölümün
-   kendi sorumluluğundadır. Ancak BİDB gereken durumlarda ve istek üzerine
-   danışmanlık hizmeti verebilir.
+   BİDB, bölüm ve birimlerde tespit edilen ana ağ erişim noktalarını kurar,
+   bilgi işlem merkezi ile iletişimi için gerekli kablolama faaliyetlerini
+   yürütür, bu noktalara kullanıcıların bağlanabilmesi için gerekli ağ
+   anahtarlama cihazlarını temin eder ve yerleştirir. Sistemi teknik düzeyde
+   planlama ve uygulama sorumluluk ve yetkisi BİDB’dedir. BİDB, binalar içinde
+   kurulan ana erişim noktaları dışında kalan oda, ofis ve laboratuvar gibi alt
+   birimlerin bağlantılarından sorumlu değildir; bunlar birimin/bölümün kendi
+   sorumluluğundadır. Ancak BİDB gereken durumlarda ve istek üzerine danışmanlık
+   hizmeti verebilir.
 
 1. Üniversite bilişim kaynakları kullanıcıları, Üniversite sunucuları üzerinde
    kendilerine tahsis edilen kullanıcı kodu/şifre ikilisi ve/veya IP (Internet

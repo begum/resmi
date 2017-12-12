@@ -37,7 +37,7 @@ kullanılacak gibi bilgiler önemlidir.
 1. Şifrelemede kullanılan anahtarlara erişim mümkün olduğunca az kişi tarafından
    yapılmalıdır ve bu erişimler denetlenmelidir.
 
-1. Bir anahtarın kullanım süresinin uzunluğu güvenlik zaafiyetine yol
+1. Bir anahtarın kullanım süresinin uzunluğu güvenlik zafiyetine yol
    açabileceğinden, anahtarlar sıklıkla değiştirilmelidir.
 
 1. Anahtar kullanımına yönelik tüm değişikler, erişim ve kullanım istekleri
