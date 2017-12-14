@@ -41,8 +41,8 @@ Genel İlkeler
 1. Kritik altyapı sistemi tasarlanırken veya mevcut bir sistem güncellenirken
    karşılaşılabilecek elektronik riskler göz önünde bulundurulmalıdır.
 
-1. Binalarının fiziksel olarak korunması, farklı koruma mekanizmaları ile
-   donatılması temin edilmelidir.
+1. Kritik altyapılara sahip binaların fiziksel olarak korunması, farklı koruma
+   mekanizmaları ile donatılması temin edilmelidir.
 
 1. Kurumsal bilgi varlıklarının dağılımı ve bulundurulan bilgilerin kritiklik
    seviyelerine göre binalarda ve çalışma alanlarında farklı güvenlik bölgeleri
