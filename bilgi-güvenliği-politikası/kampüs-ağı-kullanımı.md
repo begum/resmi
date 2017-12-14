@@ -52,10 +52,8 @@ kurallarına uymaları gerekmektedir.
    cihazlar (switch, hub, modem, kablosuz erişim cihazı -access point- vb.)
    dahil edemezler.
 
-1. Üniversitemizde kablosuz ağ altyapısında EDUROAM (EDUcation ROAMing) hizmeti
-   verilmektedir. Kullanıcıların EDUROAM hizmetinde kullandıkları kendilerine
-   ait kullanıcı adı ve parola bilgilerini üçüncü şahıslara kullandırmaları ve
-   paylaşmaları yasaktır.
+1. Üniversitemiz bilişim hizmetleri kullanıcılarının, kendilerine tanımlanmış olan
+   erişim bilgilerini (kullanıcı adı, parola, vb.), diğer kişiler ile paylaşmaları yasaktır.
 
 1. E-posta kullanırken uyulması gereken kurallar “E-posta Hesapları Kullanım
    Politikası” dokümanında ayrıntılı olarak tanımlanmıştır.
