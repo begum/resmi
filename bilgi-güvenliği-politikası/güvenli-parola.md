@@ -17,19 +17,19 @@ vb.) kapsamaktadır.
 Genel İlkeler
 -------------
 
-1. Tüm sistem düzeyinde parolalar (örneğin, root, enable, NT administrator,
+1. Tüm sistem düzeyinde parolalar (örneğin, root, administrator,
    uygulama yönetim hesapları vb.) en az yılda bir kez değiştirilmelidir.
 
 1. Tüm kullanıcı düzeyinde parolalar (örneğin, e-posta, web, masaüstü
    bilgisayar, vb.) en az yılda bir kez değiştirilmelidir. Önerilen değişim
-   aralığı her altı aydır.
+   aralığı ise her altı ayda birdir.
 
-1. Her başarılı parola benzersiz olmalıdır. Aynı parolanın tekrar kullanılmasına
-   izin verilmeyecektir.
+1. Çeşitli bilişim servisleri için farklı parolalar kullanılmalıdır. Aynı parolanın
+   tekrar kullanımına izin verilmemelidir.
 
 1. Parolalar en az sekiz (8) karakter uzunluğunda olmalıdır.
 
-1. Grup üyeliği ya da "Sudo" gibi program aracılığıyla verilen sistem düzeyinde
+1. Grup üyeliği ya da "sudo" gibi program aracılığıyla verilen sistem düzeyinde
    yetkilere sahip kullanıcı hesapları, bu kullanıcı tarafından kullanılan tüm
    diğer hesaplardan benzersiz bir parolaya sahip olmalıdır.
 
@@ -39,7 +39,7 @@ Genel İlkeler
 1. Parolalar hiçbir zaman yazılı ya da online olarak saklanmamalıdır.
 
 1. İdari asistanlar veya sekreterler de dahil olmak üzere parolalar kimseyle
-   paylaşılmamalıdır. Tüm şifreler özel ve gizli bilgi olarak kabul edilmelidir.
+   paylaşılmamalıdır. Tüm şifreler özel, kişisel ve gizli bilgi olarak kabul edilmelidir.
 
 1. Kullanıcı ve sistem düzeyindeki tüm parolalar açıklanan kurallara uymak
    zorundadır.
@@ -53,9 +53,10 @@ Güçlü Bir Parola Oluşturmak için Kabul Edilebilir Yöntemler
 - Hatırlaması kolay ancak başkaları tarafından tahmin edilmesi zor bir parola
   belirleyin. Yararlı bir yaklaşım; büyük ve küçük harflerin kullanımı ve harf
   yerine geçen özel karakterleri kullanarak bir şifre yaratmak için bir cümle
-  veya söylem kullanmaktır. Örneğin, "One ring to rule them all, one ring to
-  bind them" ifadesi çok güçlü bir şifre olarak kullanılabilen "1R2rtAor2Bt"
-  gibi bir parola deyimi oluşturmak için kullanılabilir.
+  veya söylem kullanmaktır. Örneğin, "OtobüsümKızılay'dan17:30'daKalkar." gibi
+  bir cümleyi parola olarak kullanabilirsiniz. Veya "Bir elin nesi var, iki elin sesi var."
+  ifadesi çok güçlü bir şifre olarak kullanılabilen "1Env,2Esv." gibi bir parola deyimi
+  oluşturmak için kullanılabilir.
 
 - Parolalar, şu dört karakter türünden en az üçünü içermelidir: büyük harfler
   (A-Z), küçük harfler (a-z), rakamlar (0-9) ve özel karakterler ( _, -. +, =,!,
