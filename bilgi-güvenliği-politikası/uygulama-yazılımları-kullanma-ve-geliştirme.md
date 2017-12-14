@@ -54,27 +54,29 @@ Genel İlkeler
    kullanılmalıdır.
 
 1. Üniversite için geliştirilmiş yazılımlar ve seçilen paket sistemler
-   ihtiyaçları karşılamalıdır.
+   kurum ihtiyaçlarını karşılamalıdır.
 
 1. Yazılım geliştirme ve temin politikalarına uygun olmayan, ulusal ve
    uluslararası yazılım geliştirme standartları çerçevesinde geliştirilmemiş ve
    kurum talebi olmaksızın üretilmiş olan yazılımların kurumsal sistemler
    üzerine entegre edilmesine izin verilmemelidir.
 
-1. Eski sistemlerdeki veriler tamamen, doğru olarak ve yetkisiz değişiklikler
-   olmadan yeni sisteme aktarılmalıdır.
+1. Herhangi bir taşıma durumunda, eski sistemlerdeki veriler tamamen, doğru olarak
+   ve yetkisiz değişiklikler olmadan yeni sisteme aktarılmalıdır.
 
-1. Sistem yazılımında mevcut olan kontroller, kullanılacak yeni bir yazılım veya
-   mevcut sistem yazılımına yapılacak olan güncellemeler ile etkisiz hale
-   getirilmemelidir.
-
-1. Uygulama ortamına aktarılma kararı uygun bilgilere dayalı olarak, ilgili
-   yönetim tarafından verilmelidir.
-
-1. Yeni yazılımların dağıtımı ve uygulanması kontrol altında tutulmalıdır.
+1. Geliştirme süreci sonrasında, yazılımların yayına alınması kararı bilgi işlem
+   hizmetleri sorumluları tarafından verilmelidir.
 
 1. Yazılımlar sınıflandırılmalı/etiketlenmeli ve envanterleri çıkarılarak bir
    yazılım kütüğünde muhafaza edilmelidir.
+
+1. Güncelliğini veya işlevselliğini yitirmiş yazılımları güvenli bir depolama ortamında
+   arşivlenerek yayından kaldırılmalıdır.
+
+1. Üniversite bünyesinde; akademik personel, idari personel, hizmet alımı yoluyla temin
+   edilmiş personel, görevlendirme yoluyla kurumda görevlendirilmiş personel ve benzeri yollarla
+   görev yapan ve yazılım geliştirmekle sorumlu tutulmuş olan kişilerin geliştirdiği tüm yazılımların;
+   telif, kullanım, değiştirme, ticari kazanç etme ve diğer tüm hakları Ondokuz Mayıs Üniversitesi'ne aittir.
 
 Referanslar
 -----------
