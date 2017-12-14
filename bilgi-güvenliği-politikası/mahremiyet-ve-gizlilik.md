@@ -38,8 +38,8 @@ Genel İlkeler
 
 1. Kişisel sağlık verileri anonim hale getirilmek kaydıyla; sağlık
    politikalarının belirlenmesi, sağlık maliyetlerinin hesaplanabilmesi, sağlık
-   hizmetlerinin geliştirilmesi, bilimsel faaliyetler ve istatistiksel
-   çalışmalarda kullanılmak üzere yayımlanabilir ve aktarılabilir.
+   hizmetlerinin geliştirilmesi, bilimsel faaliyetler (etik kurul izni alınmalıdır)
+   ve istatistiksel çalışmalarda kullanılmak üzere yayımlanabilir ve aktarılabilir.
 
 1. İlgili kişinin ayrıntılı bir şekilde bilgilendirilmesi, yazılı rızasının
    alınması ve bu rızanın muhafaza edilmesi hâlinde ilgili kişiye ait sağlık
