@@ -18,7 +18,7 @@ sunucuların sistem yöneticilerini kapsamaktadır.
 Yetki ve Sorumluluklar
 ----------------------
 
-- Sunucuların yönetiminden, ilgili sunucu üzerinde yetkilendirilmiş
+- Sistem yöneticisi; sunucuların yönetiminden, ilgili sunucu üzerinde yetkilendirilmiş
   personel(ler) sorumludur.
 - Sunucu kurulumları, konfigürasyonları, yedeklemeleri, yamaları, güncellemeleri
   sadece sorumlu personel(ler) tarafından yapılmalıdır.
@@ -29,18 +29,19 @@ Genel İlkeler
 ------------
 
 1. Sunucu kurulumları, yapılandırmaları, yedeklemeleri, yamaları, güncellemeleri
-   Ondokuz Mayıs Üniversitesi Rektörlük talimatlarına göre yapılmalıdır.
+   Ondokuz Mayıs Üniversitesi Bilgi İşlem Daire Başkanlığı ve Bilgisayar Uygulamaları
+   Araştırma ve Uygulama Merkezi talimatlarına göre yapılmalıdır.
 
-1. Kullanılmayan servisler ve uygulamalar kapatılmalıdır.
+1. Kullanılmayan servisler ve uygulamalar erişime kapatılmalıdır.
 
-1. Sistem yöneticileri 'Administrator' ve 'root' gibi genel sistem hesapları
+1. Sistem yöneticileri 'Administrator' ve 'root' gibi genel sistem hesaplarını
    kullanmamalıdır. Sunuculardan sorumlu personelin istemciler ve sunuculara
    bağlanacakları kullanıcı adları ve parolaları farklı olmalıdır.
 
 1. Ayrıcalıklı bağlantılar teknik olarak güvenli kanal (SSH veya SSL IPSec VPN
    gibi şifrelenmiş ağ) üzerinden yapılmalıdır.
 
-1. Sunucular elektrik, ağ altyapısı, sıcaklık ve nem değerleri düzenlenmiş,
+1. Sunucular; elektrik, ağ altyapısı, sıcaklık ve nem değerleri düzenlenmiş,
    tavan ve taban güçlendirmeleri yapılmış ortamlarda (sistem odalarında)
    bulundurulmalıdır.
 
@@ -52,10 +53,12 @@ Genel İlkeler
    verilmemelidir.
 
 1. Sunucular kasti veya bir ele geçirme (hack) sonucu başka bir sisteme erişme
-   ve zarar verme benzeri girişimler için kullanılmamalıdır. Bu duruma uymayan
-   sunuculara erişim anında kapatılacaktır.
+   ve zarar verme benzeri girişimler için kullanılabilir durumda bulunmamalıdır.
+   Bu duruma uymayan sunuculara erişim anında kapatılacaktır.
 
-1. Sunucular üzerinde kesinlikle ticari amaç güden yazılımlar kurulmamalıdır.
+1. Sunucular üzerinde, Ondokuz Mayıs Üniversitesi ve Ondokuz Mayıs Üniversitesi Rektörlüğü'nün
+   resmi olarak izin verdiği kişi ve kurumlar haricinde, hiç bir şahıs veya kurum adına ticari
+   fayda güden yazılımlar kurulmamalıdır.
 
 1. Sunucular üzerinde daha önce belirtilen servisler haricinde (dosya paylaşımı
    vb.) başka bir servis çalıştırılmamalıdır.
@@ -82,7 +85,7 @@ Genel İlkeler
 1. Bilgisayar ağındaki adresler, ağa ait yapılandırma ve diğer tasarım bilgileri
    3. şahıs ve sistemlerin ulaşamayacağı şekilde saklanmalıdır.
 
-1. Ağ cihazları görevler dışında başka bir amaç için kullanılmamalıdır.
+1. Ağ cihazları kurum bilişim görevleri dışında başka bir amaç için kullanılmamalıdır.
 
 1. Ağ dokümantasyonu hazırlanmalı ve ağ cihazlarının güncel yapılandırma
    bilgileri gizli ortamlarda saklanmalıdır.
