@@ -1,12 +1,13 @@
-Veri / Log Saklama Politikası
+Veri ve Log Saklama Politikası
 =============================
 
 Amaç ve Kapsam
 --------------
 
 Ondokuz Mayıs Üniversitesi servislerinin kullanımıyla ilgili çeşitli verileri
-kaydeder ve bu verileri x gün/ay/yıl boyunca saklı tutar. Kayıtlar gizli kabul
-edilir. Ondokuz Mayıs Üniversitesi, bu saklama süresi boyunca verilere yetkisiz
+kaydeder ve bu verileri 5651 sayılı "İnternet Ortamında Yapılan Yayınların Düzenlenmesi 
+ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun" kapsamında belirtilen
+sürelerce saklı tutar. Kayıtlar gizli kabul edilir. Ondokuz Mayıs Üniversitesi, bu saklama süresi boyunca verilere yetkisiz
 erişimi engellemek için aktif önlemler alır. Saklama süresi, iş
 gereksinimlerine, yasalara, yönetmeliklere, Üniversite politikasına veya
 kapasite sınırlamaları gibi teknik kısıtlamalara göre kısaltılabilir veya
@@ -15,8 +16,8 @@ uzatılabilir.
 Genel İlkeler
 -------------
 
-Veri / Log Saklama sürelerinin belirlenmesinde Ondokuz Mayıs Üniversitesi
-Bilişim Kaynakları’nın kullanımı göz önünde bulundurulmuştur. Verilerin
+Veri ve Log Saklama sürelerinin belirlenmesinde Ondokuz Mayıs Üniversitesi
+Bilişim Kaynakları’nın kullanımı göz önünde bulundurulmuştur. Verilerin ve logların
 saklanmasını gerektiren durumlar için başlıca kriterler aşağıda listelenmiştir:
 
 - OMÜ ağının sağlam operasyonel güvenliğini korumak
@@ -24,6 +25,7 @@ saklanmasını gerektiren durumlar için başlıca kriterler aşağıda listelen
   vermek
 - Operasyonel verilerin yanlışlıkla ifşa edilmesine neden olan fırsatları
   azaltmak için günlük kaydı sınırlamak
+- Adli makamlarca ihtiyaç duyulabilecek erişim kayıtlarını tutmak
 
 Aşağıdaki ilkeler, Ondokuz Mayıs Üniversitesi Bilişim Kaynaklarındaki kayıtların
 tutulmasına ve yönetilmesine yardımcı olur:
@@ -40,7 +42,7 @@ Ondokuz Mayıs Üniversitesi dışındaki sağlayıcılar tarafından işletilen
 hizmetleri ve BT hizmetleri, bu politikanın kapsamı ve kontrolünün ötesinde
 kayıt tutma sürelerine sahip olabilir.
 
-Belirli verilerin x günden daha uzun süre tutulduğu ve bazı üçüncü taraflara
+Belirli verilerin tanımlanan günden daha uzun süre tutulduğu ve bazı üçüncü taraflara
 açıklandığı durumlar ortaya çıkabilir. Bu tür herhangi bir bilginin yetkili
 personel tarafından kullanılması ve herhangi bir günlük kaydının üçüncü
 şahıslara verilmesi Ondokuz Mayıs Üniversitesi Rektörlük makamının onayı ve
