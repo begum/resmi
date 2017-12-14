@@ -47,7 +47,7 @@ Genel İlkeler
 
 1. OMÜ Bilişim Kaynaklarını kullanıma sunan birimler;
 
-   - Kullanıcı bilgilerinin gizliliğini, mahremiyetini korumalı
+   - Kullanıcı bilgilerinin gizliliğini ve mahremiyetini korumalı
    - Kaynakların adil olarak paylaştırılmasını sağlamalı
    - Kaynağa yönelik tehditleri en aza indirebilmek için risk düzeylerine göre
      güvenlik önlemlerini almalı
@@ -57,31 +57,31 @@ Genel İlkeler
      tutmalı
 
 1. OMÜ Bilişim Kaynakları Kullanıcıları, kaynakları kullanırken OMÜ Bilişim
-   Kaynakları Kullanma Politikaları’na uymak zorundadır.
+   Kaynakları Kullanım Politikaları’na uymak zorundadır.
 
-1. OMÜ Bilişim Kaynakları, OMÜ yönetiminin yetkilendirdiği makamlarca
+1. OMÜ Bilişim Kaynakları; OMÜ yönetiminin yetkilendirdiği makamlarca
    belirlenmiş kurallar ve yönergeler çerçevesinde, yetkinin veriliş amacını
-   aşmayacak şekilde ve yapılacak her iş için uygun yetkilendirme ile
-   kullanılmalı, yetki almadan değiştirilmemeli, ortadan kaldırılmamalıdır.
+   aşmayacak şekilde kullanılmalıdır.
 
-1. OMÜ Bilişim Kaynakları;
+1. OMÜ Bilişim Kaynaklarının;
 
    - Kullanım hakkını, doğrudan ya da dolaylı olarak devretmek ya da kiralamak
-   - Ticari nitelik taşıyan ve gelir teminine yönelik kullanımlar
+   - Ticari nitelik taşıyan ve gelir teminine yönelik kullanımları
 
-   için rektörlük makamından izin alınmadan kullanılmamalıdır.
+   için rektörlük makamından izin alınmalıdır.
 
 1. OMÜ Bilişim Kaynakları,
 
-   - OMÜ içi bilgi kaynaklarını (duyuru, haber, doküman vb.), yetkisiz ve/veya
-     izinsiz olarak 3. kişilere/kuruluşlara dağıtmak amacıyla,
-   - OMÜ'ye ve 3. kişilere/kuruluşlara ait bilgilere ve kaynaklara (bilgisayar,
-     Bilgisayar ağı, yazılım ve servisler) izinsiz ve/veya yetkisiz erişim
+   - Hizmete özel bilgi kaynaklarını yetkisiz ve/veya
+     izinsiz olarak diğer kişilere/kuruluşlara dağıtmak amacıyla,
+   - OMÜ'ye veya diğer kişilere/kuruluşlara ait bilgilere ve kaynaklara (bilgisayar,
+     bilgisayar ağı, yazılım ve servisler) izinsiz ve/veya yetkisiz erişim
      sağlamak amacıyla,
    - Diğer kullanıcıların kaynak kullanım hakkını engelleyici faaliyetlerde
      bulunmak amacıyla,
-   - Kaynaklara zarar verici/kaynakların güvenliğini tehdit edici biçimde
-     kullanılmamalıdır.
+   - Kaynaklara zarar vermek veya kaynakların güvenliğini tehdit etmek amacıyla
+   
+  kullanılmamalıdır.
 
 1. OMÜ Bilişim Kaynakları,
 
@@ -97,7 +97,7 @@ Yetki ve Sorumluluklar
 ---------------------
 
 1. Üniversitede İnternet ağının kurulum ve işletmesine ait yetki ve sorumluluk
-   BİDB’ye aittir. BİDB, akademik, idari, eğitim ve araştırma amaçları
+   BİDB’ye aittir. BİDB; akademik, idari, eğitim ve araştırma amaçları
    doğrultusunda bölüm ve birimlerin bilişim kaynaklarına ulaşabilmelerini
    sağlamak üzere oluşturulan altyapıyı kurmak, işletmek ve güncellemekle
    sorumludur.
@@ -106,14 +106,13 @@ Yetki ve Sorumluluklar
    bilgi işlem merkezi ile iletişimi için gerekli kablolama faaliyetlerini
    yürütür, bu noktalara kullanıcıların bağlanabilmesi için gerekli ağ
    anahtarlama cihazlarını temin eder ve yerleştirir. Sistemi teknik düzeyde
-   planlama ve uygulama sorumluluk ve yetkisi BİDB’dedir. BİDB, binalar içinde
-   kurulan ana erişim noktaları dışında kalan oda, ofis ve laboratuvar gibi alt
-   birimlerin bağlantılarından sorumlu değildir; bunlar birimin/bölümün kendi
-   sorumluluğundadır. Ancak BİDB gereken durumlarda ve istek üzerine danışmanlık
-   hizmeti verebilir.
+   planlama ve uygulama sorumluluk ve yetkisi BİDB’dedir. BİDB, kendi kurduğu
+   ana erişim noktaları dışında kalan mekanlarda kurulan izinsiz bağlantılarından
+   sorumlu değildir; bunlar bağlantıyı kuran birimin kendi sorumluluğundadır.
+   Ancak BİDB gereken durumlarda ve istek üzerine danışmanlık hizmeti verebilir.
 
 1. Üniversite bilişim kaynakları kullanıcıları, Üniversite sunucuları üzerinde
-   kendilerine tahsis edilen kullanıcı kodu/şifre ikilisi ve/veya IP (Internet
+   kendilerine tahsis edilen kullanıcı kodu/parola ikilisi ve/veya IP (Internet
    Protocol) adresi kullanılarak gerçekleştirdikleri her türlü etkinlikten,
    Üniversite bilişim kaynaklarını kullanarak oluşturdukları ve/veya kendilerine
    tahsis edilen Üniversite bilişim kaynağı üzerinde bulundurdukları her türlü
@@ -144,7 +143,7 @@ sınırlı olmamak üzere şunlar bulunur:
 - OMÜ Bilişim Kaynakları'nın bilgi güvenliği denetimlerini engellemek,
 - Kasıtlı olarak kötü amaçlı yazılım yüklemek,
 - Başkalarının meşru bilgi işlem faaliyetlerini engellemek,
-- Hesapların, erişim kodlarının, şifrelerin veya kimlik numaralarının yetkisiz
+- Hesapların, erişim kodlarının, parolaların veya kimlik numaralarının yetkisiz
   kullanımı,
 - Sistemlerin ve ağların yetkisiz kullanımı,
 - Bilişim kaynakları üzerinden maddi kazanç sağlanması,
