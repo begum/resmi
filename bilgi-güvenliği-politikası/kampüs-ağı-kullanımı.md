@@ -35,8 +35,9 @@ kurallarına uymaları gerekmektedir.
 1. Üniversite ağ kaynaklarının üniversite dışından kullanılmasına sebep
    olabilecek ya da üniversite dışındaki kişi ya da bilgisayarların kendilerini
    üniversite içindeymiş gibi tanıtmalarını sağlayacak her tür faaliyet (DHCP,
-   DNS, proxy, relay, NAT vb.) yasaktır. Bu uygulamalar gerek görüldüğü takdirde
-   sadece BİDB sistem sorumluları tarafından gerçekleştirilecektir.
+   DNS, proxy, relay, NAT, VPN vb.), izin alınmadığı taktirde yasaktır. Bu
+   uygulamalar gerek görüldüğü takdirde sadece BİDB sistem sorumluları
+   tarafından gerçekleştirilecektir.
 
 1. Kullanıcılar ağda bulunan diğer kullanıcıların kişilik haklarına saygılı
    davranmalı, kişisel bilgilerinin güvenliğini tehdit edici eylemlerde
