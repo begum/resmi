@@ -5,13 +5,13 @@ Amaç ve Kapsam
 --------------
 
 Ondokuz Mayıs Üniversitesi servislerinin kullanımıyla ilgili çeşitli verileri
-kaydeder ve bu verileri 5651 sayılı "İnternet Ortamında Yapılan Yayınların Düzenlenmesi 
-ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun" kapsamında belirtilen
-sürelerce saklı tutar. Kayıtlar gizli kabul edilir. Ondokuz Mayıs Üniversitesi, bu saklama süresi boyunca verilere yetkisiz
-erişimi engellemek için aktif önlemler alır. Saklama süresi, iş
-gereksinimlerine, yasalara, yönetmeliklere, Üniversite politikasına veya
-kapasite sınırlamaları gibi teknik kısıtlamalara göre kısaltılabilir veya
-uzatılabilir.
+kaydeder ve bu verileri 5651 sayılı "İnternet Ortamında Yapılan Yayınların
+Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında
+Kanun" kapsamında belirtilen sürelerce saklı tutar. Kayıtlar gizli kabul edilir.
+Ondokuz Mayıs Üniversitesi, bu saklama süresi boyunca verilere yetkisiz erişimi
+engellemek için aktif önlemler alır. Saklama süresi, iş gereksinimlerine,
+yasalara, yönetmeliklere, Üniversite politikasına veya kapasite sınırlamaları
+gibi teknik kısıtlamalara göre kısaltılabilir veya uzatılabilir.
 
 Genel İlkeler
 -------------

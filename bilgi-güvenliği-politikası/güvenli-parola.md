@@ -54,9 +54,9 @@ Güçlü Bir Parola Oluşturmak için Kabul Edilebilir Yöntemler
   belirleyin. Yararlı bir yaklaşım; büyük ve küçük harflerin kullanımı ve harf
   yerine geçen özel karakterleri kullanarak bir şifre yaratmak için bir cümle
   veya söylem kullanmaktır. Örneğin, "OtobüsümKızılay'dan17:30'daKalkar." gibi
-  bir cümleyi parola olarak kullanabilirsiniz. Veya "Bir elin nesi var, iki elin sesi var."
-  ifadesi çok güçlü bir şifre olarak kullanılabilen "1Env,2Esv." gibi bir parola deyimi
-  oluşturmak için kullanılabilir.
+  bir cümleyi parola olarak kullanabilirsiniz. Veya "Bir elin nesi var, iki elin
+  sesi var." ifadesi çok güçlü bir şifre olarak kullanılabilen "1Env,2Esv." gibi
+  bir parola deyimi oluşturmak için kullanılabilir.
 
 - Parolalar, şu dört karakter türünden en az üçünü içermelidir: büyük harfler
   (A-Z), küçük harfler (a-z), rakamlar (0-9) ve özel karakterler ( _, -. +, =,!,

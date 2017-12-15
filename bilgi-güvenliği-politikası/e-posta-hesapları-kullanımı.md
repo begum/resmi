@@ -89,15 +89,15 @@ Genel İlkeler
      edildiği durumlarda,
    - Sistem doğruluğunun, bütünlüğünün, güvenliğinin ve servis devamlılığının
      engellendiği durumlarda,
-     
+
     kullanıcıya haber verilmeksizin Ondokuz Mayıs Üniversitesi Bilgi işlem Daire
-    Başkanlığı tarafından geçici olarak kapatılabilir. Kullanıcı hesabının kalıcı
-    olarak kapatılacağı durumlarda kullanıcılar önceden bilgilendirilir.
+    Başkanlığı tarafından geçici olarak kapatılabilir. Kullanıcı hesabının
+    kalıcı olarak kapatılacağı durumlarda kullanıcılar önceden bilgilendirilir.
 
 1. Bilgi işlem Daire Başkanlığı uzun süre kullanılmayan hesapları kapatma
    hakkına sahiptir. 6 ay süreyle kullanılmayan hesaplar kapatılabilir ve ilgili
-   kullanıcının dosyaları silinebilir. Ancak hesap kapalatılmadan en az 1 ay önce
-   kullanıcı bilgilendirilir.
+   kullanıcının dosyaları silinebilir. Ancak hesap kapalatılmadan en az 1 ay
+   önce kullanıcı bilgilendirilir.
 
 1. Ondokuz Mayıs Üniversitesi elektronik posta kaynakları; “zincir elektronik
    postalar”, reklam, aldatma, karalama gibi istenmeyen mesajlar (SPAM)

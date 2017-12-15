@@ -18,10 +18,9 @@ Bir veri deposuyla bir kullanıcı, sistem veya işlem arasında bilgi akışı.
 kullanıcı, sistem veya işlem, aşağıdaki ayrıcalıklardan birine veya birden
 fazlasına sahipse, verilere eriştiği kabul edilir: verileri okuma veya
 görüntüleme, mevcut verileri güncelleme, yeni veri oluşturma, verileri silme
-veya oluşturma, verilerin bir kopyasını alma. Erişim; sürekli, bir
-defaya mahsus veya geçici olarak sağlanabilir. Herhangi bir ortamdaki herhangi
-bir veriyi bir taraftan diğerine aktarma, bu verilere erişime izin vermek
-demektir.
+veya oluşturma, verilerin bir kopyasını alma. Erişim; sürekli, bir defaya mahsus
+veya geçici olarak sağlanabilir. Herhangi bir ortamdaki herhangi bir veriyi bir
+taraftan diğerine aktarma, bu verilere erişime izin vermek demektir.
 
 ### Kurumsal veri
 
@@ -33,20 +32,20 @@ kayıtları, personel bilgileri ve kurumsal dizin kayıtlarını içerir.
 ### Hassas kurumsal veri
 
 Ondokuz Mayıs Üniversitesi tarafından "hassas" veya "kısıtlı" olarak
-sınıflandırılabilir bilgileri içeren kurumsal verilerdir. Hassas Kurumsal Verilerin
-bazı örnekleri; kişisel veri olarak tanımlanan Sosyal Güvenlik Numaraları,
-Kredi Kartı Numaraları veya diğer mali hesap numaralarıdır.
+sınıflandırılabilir bilgileri içeren kurumsal verilerdir. Hassas Kurumsal
+Verilerin bazı örnekleri; kişisel veri olarak tanımlanan Sosyal Güvenlik
+Numaraları, Kredi Kartı Numaraları veya diğer mali hesap numaralarıdır.
 
 ### Kısıtlı kurumsal veri
 
-Kısıtlı Kurumsal Veriler; geçici veya kalıcı olarak sadece belirli
-kişilere veya birimlere erişim yetkisinin tanımlanmış olduğu verilerdir.
-Buradaki 'kısıt', veriye erişebilecek olan kişiler/birimler ve bu kişilere/birimlere
-tanımlanmış olan erişim süresidir.
+Kısıtlı Kurumsal Veriler; geçici veya kalıcı olarak sadece belirli kişilere veya
+birimlere erişim yetkisinin tanımlanmış olduğu verilerdir. Buradaki 'kısıt',
+veriye erişebilecek olan kişiler/birimler ve bu kişilere/birimlere tanımlanmış
+olan erişim süresidir.
 
-Kısıtlı Kurumsal Verilere örnek: yetkisi süresince personel verilerine erişim, görevi
-itibariyle öğrenci verilerine erişim, misafirliği süresince OMÜ bilişim kaynaklarını
-kullanım, öğrenciliği süresince bazı verilere erişim vb.
+Kısıtlı Kurumsal Verilere örnek: yetkisi süresince personel verilerine erişim,
+görevi itibariyle öğrenci verilerine erişim, misafirliği süresince OMÜ bilişim
+kaynaklarını kullanım, öğrenciliği süresince bazı verilere erişim vb.
 
 ### Veri sorumlusu
 

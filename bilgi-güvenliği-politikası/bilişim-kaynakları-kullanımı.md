@@ -80,7 +80,7 @@ Genel İlkeler
    - Diğer kullanıcıların kaynak kullanım hakkını engelleyici faaliyetlerde
      bulunmak amacıyla,
    - Kaynaklara zarar vermek veya kaynakların güvenliğini tehdit etmek amacıyla
-   
+
   kullanılmamalıdır.
 
 1. OMÜ Bilişim Kaynakları,
@@ -107,9 +107,10 @@ Yetki ve Sorumluluklar
    yürütür, bu noktalara kullanıcıların bağlanabilmesi için gerekli ağ
    anahtarlama cihazlarını temin eder ve yerleştirir. Sistemi teknik düzeyde
    planlama ve uygulama sorumluluk ve yetkisi BİDB’dedir. BİDB, kendi kurduğu
-   ana erişim noktaları dışında kalan mekanlarda kurulan izinsiz bağlantılarından
-   sorumlu değildir; bunlar bağlantıyı kuran birimin kendi sorumluluğundadır.
-   Ancak BİDB gereken durumlarda ve istek üzerine danışmanlık hizmeti verebilir.
+   ana erişim noktaları dışında kalan mekanlarda kurulan izinsiz
+   bağlantılarından sorumlu değildir; bunlar bağlantıyı kuran birimin kendi
+   sorumluluğundadır.Ancak BİDB gereken durumlarda ve istek üzerine danışmanlık
+   hizmeti verebilir.
 
 1. Üniversite bilişim kaynakları kullanıcıları, Üniversite sunucuları üzerinde
    kendilerine tahsis edilen kullanıcı kodu/parola ikilisi ve/veya IP (Internet

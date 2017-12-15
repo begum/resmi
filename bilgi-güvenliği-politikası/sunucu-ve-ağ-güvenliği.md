@@ -56,9 +56,9 @@ Genel İlkeler
    ve zarar verme benzeri girişimler için kullanılabilir durumda bulunmamalıdır.
    Bu duruma uymayan sunuculara erişim anında kapatılacaktır.
 
-1. Sunucular üzerinde, Ondokuz Mayıs Üniversitesi ve Ondokuz Mayıs Üniversitesi Rektörlüğü'nün
-   resmi olarak izin verdiği kişi ve kurumlar haricinde, hiç bir şahıs veya kurum adına ticari
-   fayda güden yazılımlar kurulmamalıdır.
+1. Sunucular üzerinde, Ondokuz Mayıs Üniversitesi ve Ondokuz Mayıs Üniversitesi
+   Rektörlüğü'nün resmi olarak izin verdiği kişi ve kurumlar haricinde, hiç bir
+   şahıs veya kurum adına ticari fayda güden yazılımlar kurulmamalıdır.
 
 1. Sunucular üzerinde daha önce belirtilen servisler haricinde (dosya paylaşımı
    vb.) başka bir servis çalıştırılmamalıdır.
