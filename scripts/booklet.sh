@@ -3,7 +3,8 @@
 bilgi-guvenligi-politikasi() {
 	local f=$1
 	echo "-----> $f"
-	pandoc -o "out/$(basename "$f" .md).pdf" "bilgi-güvenliği-politikası/$f"
+	# pandoc -o "out/$(basename "$f" .md).pdf" "bilgi-güvenliği-politikası/$f"
+	pandoc -o "out/$(basename "$f" .md).docx" "bilgi-güvenliği-politikası/$f"
 }
 
 mkdir -p out
