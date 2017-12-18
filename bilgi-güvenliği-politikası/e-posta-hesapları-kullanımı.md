@@ -75,23 +75,23 @@ Genel İlkeler
    sahiplerine zarar verici uygulamalar kullanamaz.
 
 1. Kullanıcı hesabı;
-   - T.C. yasalarının belirlediği yasadışı kullanımlarda,
-   - Ondokuz Mayıs Üniversitesi tarafından belirlenen kullanım politikalarına
+    - T.C. yasalarının belirlediği yasadışı kullanımlarda,
+    - Ondokuz Mayıs Üniversitesi tarafından belirlenen kullanım politikalarına
      uyulmadığı durumlarda,
-   - Kullanıcı hesapları için belirlenen sınırların aşıldığı durumlarda,
-   - Ondokuz Mayıs  Üniversitesi bilişim kaynaklarının akademik amaçlı
+    - Kullanıcı hesapları için belirlenen sınırların aşıldığı durumlarda,
+    - Ondokuz Mayıs  Üniversitesi bilişim kaynaklarının akademik amaçlı
      çalışmaları engelleyici biçimde akademik amaçlı olmayan, ticari ve yasadışı
      amaçlı kullanıldığı durumlarda,
-   - Kişilere ait kullanıcı hesaplarının farklı kişiler tarafından kullanımının
+    - Kişilere ait kullanıcı hesaplarının farklı kişiler tarafından kullanımının
      belirlendiği durumlarda,
-   - Sunucu sistemler üzerinde tanımlı diğer kullanıcıların şifrelerini bulmaya
+    - Sunucu sistemler üzerinde tanımlı diğer kullanıcıların şifrelerini bulmaya
      çalışmak, dosyalarına müdahale etmek, değiştirmek vb. girişimlerin tespit
      edildiği durumlarda,
-   - Sistem doğruluğunun, bütünlüğünün, güvenliğinin ve servis devamlılığının
+    - Sistem doğruluğunun, bütünlüğünün, güvenliğinin ve servis devamlılığının
      engellendiği durumlarda,
 
-    kullanıcıya haber verilmeksizin Ondokuz Mayıs Üniversitesi Bilgi işlem Daire
-    Başkanlığı tarafından geçici olarak kapatılabilir. Kullanıcı hesabının
+     kullanıcıya haber verilmeksizin Ondokuz Mayıs Üniversitesi Bilgi işlem
+    Daire Başkanlığı tarafından geçici olarak kapatılabilir. Kullanıcı hesabının
     kalıcı olarak kapatılacağı durumlarda kullanıcılar önceden bilgilendirilir.
 
 1. Bilgi işlem Daire Başkanlığı uzun süre kullanılmayan hesapları kapatma

@@ -22,11 +22,11 @@ Genel İlkeler
 1. Kişisel sağlık verilerinin işlenmesinde aşağıdaki ilkelere uyulması
    zorunludur:
 
-   - Hukuka ve dürüstlük kurallarına uygun olma
-   - Doğru ve gerektiğinde güncel olma
-   - Belirli, açık ve meşru amaçlar için işlenme
-   - İşlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma
-   - İşlendikleri amaç için gerekli olan süre kadar muhafaza edilme
+    - Hukuka ve dürüstlük kurallarına uygun olma
+    - Doğru ve gerektiğinde güncel olma
+    - Belirli, açık ve meşru amaçlar için işlenme
+    - İşlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma
+    - İşlendikleri amaç için gerekli olan süre kadar muhafaza edilme
 
 1. Sağlık hizmet sunucularında görevli kişiler, ilgili kişinin sağlık verilerine
    ancak verilecek olan sağlık hizmetinin gereği ile sınırlı olmak kaydıyla

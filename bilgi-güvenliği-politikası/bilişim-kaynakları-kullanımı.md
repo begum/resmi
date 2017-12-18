@@ -47,12 +47,12 @@ Genel İlkeler
 
 1. OMÜ Bilişim Kaynaklarını kullanıma sunan birimler;
 
-   - Kullanıcı bilgilerinin gizliliğini ve mahremiyetini korumalı
-   - Kaynakların adil olarak paylaştırılmasını sağlamalı
-   - Kaynağa yönelik tehditleri en aza indirebilmek için risk düzeylerine göre
+    - Kullanıcı bilgilerinin gizliliğini ve mahremiyetini korumalı
+    - Kaynakların adil olarak paylaştırılmasını sağlamalı
+    - Kaynağa yönelik tehditleri en aza indirebilmek için risk düzeylerine göre
      güvenlik önlemlerini almalı
-   - Kritik olma düzeyine göre kaynakları yedeklemeli
-   - Güvenliği ilgilendiren durumlarda kanıt özelliği taşıyabilecek bilgileri
+    - Kritik olma düzeyine göre kaynakları yedeklemeli
+    - Güvenliği ilgilendiren durumlarda kanıt özelliği taşıyabilecek bilgileri
      kaynakları kullananların kimliğinin tespit edilmesini sağlayacak düzende
      tutmalı
 
@@ -65,29 +65,29 @@ Genel İlkeler
 
 1. OMÜ Bilişim Kaynaklarının;
 
-   - Kullanım hakkını, doğrudan ya da dolaylı olarak devretmek ya da kiralamak
-   - Ticari nitelik taşıyan ve gelir teminine yönelik kullanımları
+    - Kullanım hakkını, doğrudan ya da dolaylı olarak devretmek ya da kiralamak
+    - Ticari nitelik taşıyan ve gelir teminine yönelik kullanımları
 
-   için rektörlük makamından izin alınmalıdır.
+     için rektörlük makamından izin alınmalıdır.
 
 1. OMÜ Bilişim Kaynakları,
 
-   - Hizmete özel bilgi kaynaklarını yetkisiz ve/veya
+    - Hizmete özel bilgi kaynaklarını yetkisiz ve/veya
      izinsiz olarak diğer kişilere/kuruluşlara dağıtmak amacıyla,
-   - OMÜ'ye veya diğer kişilere/kuruluşlara ait bilgilere ve kaynaklara (bilgisayar,
+    - OMÜ'ye veya diğer kişilere/kuruluşlara ait bilgilere ve kaynaklara (bilgisayar,
      bilgisayar ağı, yazılım ve servisler) izinsiz ve/veya yetkisiz erişim
      sağlamak amacıyla,
-   - Diğer kullanıcıların kaynak kullanım hakkını engelleyici faaliyetlerde
+    - Diğer kullanıcıların kaynak kullanım hakkını engelleyici faaliyetlerde
      bulunmak amacıyla,
-   - Kaynaklara zarar vermek veya kaynakların güvenliğini tehdit etmek amacıyla
+    - Kaynaklara zarar vermek veya kaynakların güvenliğini tehdit etmek amacıyla
 
-  kullanılmamalıdır.
+    kullanılmamalıdır.
 
 1. OMÜ Bilişim Kaynakları,
 
-   - Genel ahlak ilkelerine aykırı materyal üretmek, barındırmak, iletmek,
-   - Siyasi propaganda yapmak,
-   - Rastgele ve alıcının istemi dışında mesaj (SPAM iletiler) göndermek
+    - Genel ahlak ilkelerine aykırı materyal üretmek, barındırmak, iletmek,
+    - Siyasi propaganda yapmak,
+    - Rastgele ve alıcının istemi dışında mesaj (SPAM iletiler) göndermek
      amacıyla kullanılmamalıdır.
 
 1. "Yasal Sorumluluk Reddi (Disclaimer)" metinleri, Genel İlkelere aykırı
@@ -102,7 +102,7 @@ Yetki ve Sorumluluklar
    sağlamak üzere oluşturulan altyapıyı kurmak, işletmek ve güncellemekle
    sorumludur.
 
-   BİDB, bölüm ve birimlerde tespit edilen ana ağ erişim noktalarını kurar,
+    BİDB, bölüm ve birimlerde tespit edilen ana ağ erişim noktalarını kurar,
    bilgi işlem merkezi ile iletişimi için gerekli kablolama faaliyetlerini
    yürütür, bu noktalara kullanıcıların bağlanabilmesi için gerekli ağ
    anahtarlama cihazlarını temin eder ve yerleştirir. Sistemi teknik düzeyde

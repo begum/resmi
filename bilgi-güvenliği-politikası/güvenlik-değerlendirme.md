@@ -36,26 +36,26 @@ Genel İlkeler
 
 1. Yapılan güvenlik değerlendirmesi aşağıdakileri sağlamalıdır:
 
-   - Mevcut metriklerin değerlendirmesi
-   - Kritik bilgi varlıklarının belirlenmesi
-   - Risk değerlendirme sonuçlarının bilgi güvenliği kapsamında iyileştirilmesi
-   - Hedeflenen uygulamaya yönelik karşılaşılan engellerin tanımlanması
-   - Bilgi güvenliği politikasının ve bilgi güvenliği hedeflerinin,
+    - Mevcut metriklerin değerlendirmesi
+    - Kritik bilgi varlıklarının belirlenmesi
+    - Risk değerlendirme sonuçlarının bilgi güvenliği kapsamında iyileştirilmesi
+    - Hedeflenen uygulamaya yönelik karşılaşılan engellerin tanımlanması
+    - Bilgi güvenliği politikasının ve bilgi güvenliği hedeflerinin,
      üniversitenin stratejik hedefleri ve dış ortamdaki herhangi bir değişiklik
      karşısında devamlılığının değerlendirilmesiyle birlikte gözden geçirilmesi
-   - Toplanacak veriler için yeni ölçütlerin belirlenmesi
-   - Bilgi güvenlik denetimlerinin yerinde yapılması
-   - Üniversitenin normal iş süreçlerine bilgi güvenliğinin aktif olarak
+    - Toplanacak veriler için yeni ölçütlerin belirlenmesi
+    - Bilgi güvenlik denetimlerinin yerinde yapılması
+    - Üniversitenin normal iş süreçlerine bilgi güvenliğinin aktif olarak
      katılmasının sağlanması
-   - Güvenlik iyileştirme fırsatlarının sürekli gözden geçirilmesi
+    - Güvenlik iyileştirme fırsatlarının sürekli gözden geçirilmesi
 
 1. Güvenlik denetimleri sonucunda;
 
-   - Mevcut yönetmeliklerle uyumluluk değerlendirilmeli
-   - Üniversitenin bilgi güvenliği açısından güçlü ve zayıf yönleri belirlenmeli
-   - Politikaları, standartları ve prosedürleri iyileştirmek için
+    - Mevcut yönetmeliklerle uyumluluk değerlendirilmeli
+    - Üniversitenin bilgi güvenliği açısından güçlü ve zayıf yönleri belirlenmeli
+    - Politikaları, standartları ve prosedürleri iyileştirmek için
      özelleştirilmiş bilgi güvenliği önerileri sunulmalı
-   - Önerilerin uygulanması için bir zaman planı hazırlanmalıdır.
+    - Önerilerin uygulanması için bir zaman planı hazırlanmalıdır.
 
 1. Yıllık incelemenin sonuçları bir raporda sunulmalıdır. Raporda, bilgi
    güvenliği politikalarına uygun olarak tasarlanan eylem planı ve uygulanan
