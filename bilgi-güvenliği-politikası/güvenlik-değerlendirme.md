@@ -24,13 +24,13 @@ Genel İlkeler
 
 1. Güvenlik denetimleri, Ondokuz Mayıs Üniversitesi Rektörlüğü tarafından
    görevlendirilen BİDB'ye bağlı Bilgi Güvenliği Ekibi tarafından
-   gerçekleştirilmeliir.
+   gerçekleştirilmelidir.
 
 1. Bilgi Güvenliği Ekibi, periyodik olarak dahili güvenlik açığı taramalarını
    yapmalıdır. Bu taramaların sonuçları üniversitenin risk değerlendirmesine
-   uygun olarak ele alınmaldır.
+   uygun olarak ele alınmalıdır.
 
-1. Yönetim tarafından, iç de dış paylaşlardan alınan geri bildirimler göz önünde
+1. Yönetim tarafından, iç ve dış paylaşlardan alınan geri bildirimler göz önünde
    bulundurularak, politikalar uyarınca bilgi güvenliği performansı
    incelenmelidir.
 
